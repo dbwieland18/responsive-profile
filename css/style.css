@@ -125,13 +125,18 @@ iframe {
       width: 100%;
     }
 
-    #intro, #headshot {
+    #intro, #headshot, h1 {
       display: none;
+    }
+
+    ul.nav li {
+      float:left;
+      margin: 3% 0 3% 10%;
     }
 }
 
 @media screen and (max-width: 1024px) {
-    
+
 }
 
 
