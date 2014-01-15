@@ -1,0 +1,124 @@
+/*font-family: 'Ewert', cursive;*/
+/*font-family: 'Josefin Sans', sans-serif;*/
+
+body {
+	font-family: 'Josefin Sans';
+  color: #FFEE00;
+  background: #420600 url('img/tweed.png') repeat;
+}
+
+a {
+  color: #FFEE00;
+  text-decoration: none;
+}
+
+h1 {
+  font-size: 1.750em;
+  letter-spacing: -1.5px;
+}
+
+h2 {
+  font-size: 1.500em;
+  color: #B4C34F;
+}
+
+.btn {
+  color: #FFEE00;
+  background: #38B2CE url('img/texture.png') no-repeat right top;
+  padding: 15px 30px;
+  margin: 40px 0px;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+
+.btn:hover {
+  background-color: #015367;
+  transform: scale(2,4);
+  -ms-transform: scale(2,4); /* IE 9 */
+  -webkit-transform: scale(2,4); /* Safari and Chrome */
+}
+
+#cohort {
+  font-family: 'Ewert', cursive;
+  color: #38B2CE;
+  font-size: 50px;
+  float: left;
+  margin: 120px 0 0 0;
+  text-shadow: 5px 5px #000000;
+}
+
+ul.nav {
+  margin: 20px 0 0 0;
+  list-style: none;
+  float: right;
+}
+
+ul.nav li {
+  float: left;
+  margin-right: 40px;
+}
+
+ul.nav li a {
+  color: #FFEE00;
+}
+
+#intro {
+  margin: 50px 0 75px 0;
+}
+
+#quirk img {
+  border: 4px solid #38B2CE;
+  margin: 0 0 20px 0;
+}
+
+#quirk h2 {
+  color: #38B2CE;
+}
+
+#love h2 {
+  color: #38B2CE;
+}
+
+#love img {
+  border: 4px solid #38B2CE;
+}
+
+#headshot {
+  border-radius: 50%;
+  border: 4px solid #38B2CE;
+}
+
+#copyright {
+  border-top: 4px solid #FFEE00;
+  padding: 10px 0px;
+  margin: 15px 0px;
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
