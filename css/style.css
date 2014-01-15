@@ -55,6 +55,7 @@ ul.nav {
   margin: 2% 0 0 0;
   list-style: none;
   float: right;
+  width: 100%;
 }
 
 ul.nav li {
@@ -104,6 +105,34 @@ iframe {
   margin: 0 auto;
 }
 
+/*media queries*/
+
+/* iPhone --------------*/
+@media screen and (max-width: 480px) {
+
+    .grid_1,  
+    .grid_2,
+    .grid_3, 
+    .grid_4, 
+    .grid_5, 
+    .grid_6, 
+    .grid_7, 
+    .grid_8, 
+    .grid_9, 
+    .grid_10, 
+    .grid_11,
+    .grid_12 {
+      width: 100%;
+    }
+
+    #intro, #headshot {
+      display: none;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    
+}
 
 
 
